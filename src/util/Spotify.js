@@ -1,6 +1,6 @@
 let token;
 const client_id = "6e7ff685b81e464aa3f1dd4cc8f8452e";
-const redirect_uri =  "http://localhost:3000/";
+const redirect_uri =  "https://annavosbigian.github.io/playlist-improv/";
 
 const Spotify = {
     //logs the user into Spotify and gets their approval to edit the app
