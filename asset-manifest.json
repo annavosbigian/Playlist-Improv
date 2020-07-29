@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/playlist-improv/static/css/main.8f3ed25b.chunk.css",
-    "main.js": "/playlist-improv/static/js/main.bc97d557.chunk.js",
-    "main.js.map": "/playlist-improv/static/js/main.bc97d557.chunk.js.map",
-    "runtime-main.js": "/playlist-improv/static/js/runtime-main.61e00cac.js",
-    "runtime-main.js.map": "/playlist-improv/static/js/runtime-main.61e00cac.js.map",
-    "static/js/2.71270da9.chunk.js": "/playlist-improv/static/js/2.71270da9.chunk.js",
-    "static/js/2.71270da9.chunk.js.map": "/playlist-improv/static/js/2.71270da9.chunk.js.map",
-    "index.html": "/playlist-improv/index.html",
-    "precache-manifest.e2dad640ed9e36d6c13993c1ea5af7b6.js": "/playlist-improv/precache-manifest.e2dad640ed9e36d6c13993c1ea5af7b6.js",
-    "service-worker.js": "/playlist-improv/service-worker.js",
-    "static/css/main.8f3ed25b.chunk.css.map": "/playlist-improv/static/css/main.8f3ed25b.chunk.css.map",
-    "static/js/2.71270da9.chunk.js.LICENSE.txt": "/playlist-improv/static/js/2.71270da9.chunk.js.LICENSE.txt"
+    "main.css": "/Playlist-Improv/static/css/main.8f3ed25b.chunk.css",
+    "main.js": "/Playlist-Improv/static/js/main.4f1e3ae5.chunk.js",
+    "main.js.map": "/Playlist-Improv/static/js/main.4f1e3ae5.chunk.js.map",
+    "runtime-main.js": "/Playlist-Improv/static/js/runtime-main.481861da.js",
+    "runtime-main.js.map": "/Playlist-Improv/static/js/runtime-main.481861da.js.map",
+    "static/js/2.71270da9.chunk.js": "/Playlist-Improv/static/js/2.71270da9.chunk.js",
+    "static/js/2.71270da9.chunk.js.map": "/Playlist-Improv/static/js/2.71270da9.chunk.js.map",
+    "index.html": "/Playlist-Improv/index.html",
+    "precache-manifest.eba68faa9b65f44c6e9af9fa92ccb394.js": "/Playlist-Improv/precache-manifest.eba68faa9b65f44c6e9af9fa92ccb394.js",
+    "service-worker.js": "/Playlist-Improv/service-worker.js",
+    "static/css/main.8f3ed25b.chunk.css.map": "/Playlist-Improv/static/css/main.8f3ed25b.chunk.css.map",
+    "static/js/2.71270da9.chunk.js.LICENSE.txt": "/Playlist-Improv/static/js/2.71270da9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61e00cac.js",
+    "static/js/runtime-main.481861da.js",
     "static/js/2.71270da9.chunk.js",
     "static/css/main.8f3ed25b.chunk.css",
-    "static/js/main.bc97d557.chunk.js"
+    "static/js/main.4f1e3ae5.chunk.js"
   ]
 }
